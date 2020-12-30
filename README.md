@@ -1,5 +1,8 @@
-# Apps From Scratch | Flutter Travel UI Starter Repo
+# Flutter travel
 
-Clone this repo and follow my YouTube video: [Flutter Travel UI Tutorial | Apps From Scratch](https://youtu.be/CSa6Ocyog4U)
+this app simulates a destination app for those looking for hotels and sights
 
-[Complete Travel UI](https://github.com/MarcusNg/flutter_travel_ui)
+# Demo
+<img src="demo/travel_app.gif" width="300" heigth="300">
+
+
